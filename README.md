@@ -53,22 +53,3 @@
 
 ---
 
-## Используемые технологии
-
-* Prometheus
-* Node Exporter
-* Grafana
-* Loki
-* Docker
-* Docker Compose
-* Linux
-
----
-
-## Примечание
-
-Проект является учебно-практическим и может быть расширен:
-
-* добавлением конфигурации Alertmanager;
-* настройкой retention и advanced алертов;
-* интеграцией с production-сценариями.
